@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/7a3cc787-b789-4868-8e61-f56fa437fdfa)
+
+![image](https://github.com/user-attachments/assets/c5208da4-9652-4f94-836c-aad2d0c4f9ea)
+
 
 # Pizza-Sales-SQL-Power-BI
 
