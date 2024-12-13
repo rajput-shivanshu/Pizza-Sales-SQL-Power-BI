@@ -5,6 +5,7 @@
 
 # Pizza-Sales-SQL-Power-BI
 
+
 ## About 
 
 We are analyzing pizza sales data to identify high-performing outlets and top-selling pizza varieties, as well as to explore sales trends and customer preferences. The primary objective is to enhance and optimize sales strategies for better business outcomes. The project leverages SQL for data preparation and analysis, while Power BI is utilized for visualization and reporting.
